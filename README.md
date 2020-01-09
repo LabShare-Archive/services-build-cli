@@ -1,6 +1,6 @@
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Codecov](https://codecov.io/gh/LabShare/services-build-cli/branch/master/graph/badge.svg)](https://codecov.io/gh/LabShare/services-build-cli)
-[![Build Status](https://travis-ci.com/LabShare/services-build-cli.svg?token=zsifsALL6Np5avzzjVp1&branch=master)](https://travis-ci.com/LabShare/services-build-cli)
+[![Build Status](https://travis-ci.com/LabShare/services-build-cli.svg?token=zsifsALL6Np5avzzjVp1&branch=master)](https://travis-ci.com/LabShare/services-build-cli) [![Greenkeeper badge](https://badges.greenkeeper.io/LabShare/services-build-cli.svg)](https://greenkeeper.io/)
 
 # services-build-cli
 
